@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm swadhinjit das</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on **wals tec**
+- 🔭 I’m currently working on **Applitech solution**
 
 - 🌱 I’m currently learning **MERN Stack developer**
 
